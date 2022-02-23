@@ -1,4 +1,4 @@
-#FOCUS APP
+#focusapp
 
 App build to understand the basic working of react native 
 
